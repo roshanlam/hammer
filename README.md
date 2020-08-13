@@ -15,6 +15,12 @@ I want this project to be simple as possible but yet fast as well which is why m
 
 # AI 
 
-There will be an AI like Google or Siri or Alexa etc, which will search things for you when you say the following -> "Hey ____, Who is Donald Trump?"
+There will be an AI like Google or Siri or Alexa etc, which will search things for you when you say the following -> 
+
+"Hey ____, Who is Donald Trump?"
+
+or 
+
+"Hey ____, What is the derivative of ______ ?"
 
 Currenty The Name is Rey, but that's only temporary for now. 
