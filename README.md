@@ -11,7 +11,7 @@ Paypal Link: https://paypal.me/roshanlamofficial
 # Communication
 We will use Slack To Communicate. If you are interested in joining then please email me: lamichhaner40@gmail.com
 
-Tools And Languages To Use
+# Tools And Languages To Use
 I want this project to be simple as possible but yet fast as well which is why most of the core functionalities will be coded in python. There might be some C/C++ but not sure about that.
 
 
