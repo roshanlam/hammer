@@ -27,3 +27,6 @@ or
 
 Currenty The Name is Rey, but that's only temporary for now. 
 
+
+# Paper(s) To Check Out/Read
+http://infolab.stanford.edu/pub/papers/google.pdf
