@@ -9,10 +9,12 @@ Paypal Link: https://paypal.me/roshanlamofficial
 
 
 # Communication
-We will use Slack To Communicate. If you are interested in joining then please email me: lamichhaner40@gmail.com
+We will use Slack To Communicate. If you are interested in joining then click on the link below or email me if the link does not work: lamichhaner40@gmail.com
+
+Slack Link: https://join.slack.com/t/hammerse/shared_invite/zt-jeehnviq-edSScPdLb6WUZXn_9tgx5Q
 
 # Tools And Languages To Use
-I want this project to be simple as possible but yet fast as well which is why most of the core functionalities will be coded in python. There might be some C/C++ but not sure about that.
+I want this project to be simple as possible but yet fast as well which is why most of the core functionalities will be coded in python. There might be some C/C++ so it can be fast but not sure about that right now. We will also use design patterns and will create algorthims of our own as well. 
 
 
 # AI 
@@ -26,7 +28,3 @@ or
 "Hey ____, What is the derivative of ______ ?"
 
 Currenty The Name is Rey, but that's only temporary for now. 
-
-
-# Paper(s) To Check Out/Read
-http://infolab.stanford.edu/pub/papers/google.pdf
