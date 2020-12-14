@@ -5,7 +5,6 @@ So this will a open-source search engine which will provide better results in a 
 
 For Now this will be entire terminal based or software based but will not be website based because I do not have money to pay for the website hosting and domain, unless you guys want to help me by sending me money then I will get a web hosting and will register a domain as well. And if I get enough money, from work (in the future) or from you guys then I will also release a mobile version of it as well :) 
 
-Paypal Link: https://paypal.me/roshanlamofficial
 
 
 # Communication
