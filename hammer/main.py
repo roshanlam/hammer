@@ -19,17 +19,17 @@ def search_online():
     
   #  return query
 
-    return null
+    pass
 
 def search_offline():
     # User's will be able to save information on their computer 
     # and will be able to search it offline
   #  return offlineQuery
-  return null
+  pass
 
 def main():
 
-    return null
+    pass
 
 if __name__ == "__main__":
     main()
