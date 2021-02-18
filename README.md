@@ -1,11 +1,12 @@
 # hammer
 
-About
+## About
 So this will a open-source search engine which will provide better results in a organized manner and will let users customize it however they feel like it. There will be ML (Machine Learning) invloved in this project (I will update the readme after I am done with the actual readme, this is just a draft for now).
 
 For Now this will be entire terminal based or software based but will not be website based because I do not have money to pay for the website hosting and domain, unless you guys want to help me by sending me money then I will get a web hosting and will register a domain as well. And if I get enough money, from work (in the future) or from you guys then I will also release a mobile version of it as well :) 
 
-
+## Update (Feb.18 2021):
+I am working on this project as my honors project for my python programming class and will update this project after I am done with my course which will be around may but do feel free to add code and give ideas on the issues sections as well as any helpful resources. 
 
 # Communication
 We will use Slack To Communicate. If you are interested in joining then click on the link below or email me if the link does not work: lamichhaner40@gmail.com
